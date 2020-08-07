@@ -1,5 +1,5 @@
 # Digit Recognizer
-##Classifications image
+## Classifications image
 
 ## Motivation
 You have some experience with Python and machine learning basics, but you’re new to computer vision. This competition is the perfect introduction to techniques like neural networks using a classic dataset including pre-extracted features.
